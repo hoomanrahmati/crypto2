@@ -1,0 +1,663 @@
+{
+    "count": 200,
+    "next": "https://cryptopanic.com/api/v1/posts/?auth_token=5fda82ef699c5a66783e635119147bd82e4b62db&kind=news&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Homer Simpson Token Price Blasts Up 60,000% in 7 Days and Experts Believe This AI Meme Coin is the Next Crypto to Explode – $7.5 Million Raised Already",
+            "published_at": "2023-05-15T12:05:00Z",
+            "slug": "Homer-Simpson-Token-Price-Blasts-Up-60000-in-7-Days-and-Experts-Believe-This-AI-Meme-Coin-is-the-Next-Crypto-to-Explode-75-Million-Raised-Already",
+            "id": 18345621,
+            "url": "https://cryptopanic.com/news/18345621/Homer-Simpson-Token-Price-Blasts-Up-60000-in-7-Days-and-Experts-Believe-This-AI-Meme-Coin-is-the-Next-Crypto-to-Explode-75-Million-Raised-Already",
+            "created_at": "2023-05-15T12:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Bitcoin Holds Above 200-Week Average as Dollar Index Rallies Most Since February",
+            "published_at": "2023-05-15T12:03:01Z",
+            "slug": "Bitcoin-Holds-Above-200-Week-Average-as-Dollar-Index-Rallies-Most-Since-February",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                }
+            ],
+            "id": 18345611,
+            "url": "https://cryptopanic.com/news/18345611/Bitcoin-Holds-Above-200-Week-Average-as-Dollar-Index-Rallies-Most-Since-February",
+            "created_at": "2023-05-15T12:03:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Irish newspaper apologizes for misleading AI-generated article",
+            "published_at": "2023-05-15T12:01:10Z",
+            "slug": "Irish-newspaper-apologizes-for-misleading-AI-generated-article",
+            "id": 18345615,
+            "url": "https://cryptopanic.com/news/18345615/Irish-newspaper-apologizes-for-misleading-AI-generated-article",
+            "created_at": "2023-05-15T12:01:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "South Korea is researching offline CBDC payments via Samsung devices",
+            "published_at": "2023-05-15T12:00:35Z",
+            "slug": "South-Korea-is-researching-offline-CBDC-payments-via-Samsung-devices",
+            "id": 18345620,
+            "url": "https://cryptopanic.com/news/18345620/South-Korea-is-researching-offline-CBDC-payments-via-Samsung-devices",
+            "created_at": "2023-05-15T12:00:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Trader Who Sold Bitcoin at $30,000 Unveils Plan to Reaccumulate BTC – Here’s His Outlook",
+            "published_at": "2023-05-15T11:45:38Z",
+            "slug": "Trader-Who-Sold-Bitcoin-at-30000-Unveils-Plan-to-Reaccumulate-BTC-Heres-His-Outlook",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                }
+            ],
+            "id": 18345562,
+            "url": "https://cryptopanic.com/news/18345562/Trader-Who-Sold-Bitcoin-at-30000-Unveils-Plan-to-Reaccumulate-BTC-Heres-His-Outlook",
+            "created_at": "2023-05-15T11:45:38Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "CryptoSlate wMarket Update: Weekend recovery sees Bitcoin recapture $27,000",
+            "published_at": "2023-05-15T11:45:38Z",
+            "slug": "CryptoSlate-wMarket-Update-Weekend-recovery-sees-Bitcoin-recapture-27000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https://cryptopanic.com/news/ethereum/"
+                }
+            ],
+            "id": 18345552,
+            "url": "https://cryptopanic.com/news/18345552/CryptoSlate-wMarket-Update-Weekend-recovery-sees-Bitcoin-recapture-27000",
+            "created_at": "2023-05-15T11:45:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Before Pizza, There Was a JPEG: The Forgotten First Bitcoin Transaction",
+            "published_at": "2023-05-15T11:45:00Z",
+            "slug": "Before-Pizza-There-Was-a-JPEG-The-Forgotten-First-Bitcoin-Transaction",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                }
+            ],
+            "id": 18345565,
+            "url": "https://cryptopanic.com/news/18345565/Before-Pizza-There-Was-a-JPEG-The-Forgotten-First-Bitcoin-Transaction",
+            "created_at": "2023-05-15T11:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "forkast.news",
+            "source": {
+                "title": "Forkast.News",
+                "region": "en",
+                "domain": "forkast.news",
+                "path": null
+            },
+            "title": "Bitcoin, Ether push higher, Litecoin biggest gainer in top 10 cryptos; U.S. stock futures, Asian equities gain",
+            "published_at": "2023-05-15T11:42:05Z",
+            "slug": "Bitcoin-Ether-push-higher-Litecoin-biggest-gainer-in-top-10-cryptos-US-stock-futures-Asian-equities-gain",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https://cryptopanic.com/news/ethereum/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https://cryptopanic.com/news/litecoin/"
+                }
+            ],
+            "id": 18345556,
+            "url": "https://cryptopanic.com/news/18345556/Bitcoin-Ether-push-higher-Litecoin-biggest-gainer-in-top-10-cryptos-US-stock-futures-Asian-equities-gain",
+            "created_at": "2023-05-15T11:42:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "protos.com",
+            "source": {
+                "title": "Protos.com",
+                "region": "en",
+                "domain": "protos.com",
+                "path": null
+            },
+            "title": "Ethereum NFTs continue to stall despite brief Milady pump",
+            "published_at": "2023-05-15T11:42:00Z",
+            "slug": "Ethereum-NFTs-continue-to-stall-despite-brief-Milady-pump",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https://cryptopanic.com/news/ethereum/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https://cryptopanic.com/news/maker/"
+                }
+            ],
+            "id": 18345561,
+            "url": "https://cryptopanic.com/news/18345561/Ethereum-NFTs-continue-to-stall-despite-brief-Milady-pump",
+            "created_at": "2023-05-15T11:42:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "South Korean lawmaker leaves political party amid crypto investment controversy",
+            "published_at": "2023-05-15T11:38:45Z",
+            "slug": "South-Korean-lawmaker-leaves-political-party-amid-crypto-investment-controversy",
+            "id": 18345531,
+            "url": "https://cryptopanic.com/news/18345531/South-Korean-lawmaker-leaves-political-party-amid-crypto-investment-controversy",
+            "created_at": "2023-05-15T11:38:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Are ZK-proofs the answer to Bitcoin's Ordinal and BRC-20 problem?",
+            "published_at": "2023-05-15T11:35:58Z",
+            "slug": "Are-ZK-proofs-the-answer-to-Bitcoins-Ordinal-and-BRC-20-problem",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                }
+            ],
+            "id": 18345532,
+            "url": "https://cryptopanic.com/news/18345532/Are-ZK-proofs-the-answer-to-Bitcoins-Ordinal-and-BRC-20-problem",
+            "created_at": "2023-05-15T11:35:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "North Korean hackers steal $497M in crypto from US businesses",
+            "published_at": "2023-05-15T11:30:26Z",
+            "slug": "North-Korean-hackers-steal-497M-in-crypto-from-US-businesses",
+            "id": 18345536,
+            "url": "https://cryptopanic.com/news/18345536/North-Korean-hackers-steal-497M-in-crypto-from-US-businesses",
+            "created_at": "2023-05-15T11:30:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "DOGE transactions trump BTC and LTC thanks to DRC20, but here’s the catch",
+            "published_at": "2023-05-15T11:30:07Z",
+            "slug": "DOGE-transactions-trump-BTC-and-LTC-thanks-to-DRC20-but-heres-the-catch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https://cryptopanic.com/news/bitcoin/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https://cryptopanic.com/news/dogecoin/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https://cryptopanic.com/news/litecoin/"
+                }
+            ],
+            "id": 18345526,
+            "url": "https://cryptopanic.com/news/18345526/DOGE-transactions-trump-BTC-and-LTC-thanks-to-DRC20-but-heres-the-catch",
+            "created_at": "2023-05-15T11:30:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Cardano (ADA) Price at a Crossroad: What Comes Next?",
+            "published_at": "2023-05-15T11:30:00Z",
+            "slug": "Cardano-ADA-Price-at-a-Crossroad-What-Comes-Next",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https://cryptopanic.com/news/cardano/"
+                }
+            ],
+            "id": 18345566,
+            "url": "https://cryptopanic.com/news/18345566/Cardano-ADA-Price-at-a-Crossroad-What-Comes-Next",
+            "created_at": "2023-05-15T11:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "forkast.news",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Forkast.News",
+                "region": "en",
+                "domain": "forkast.news",
+                "path": null
+            },
+            "title": "Head of U.S. DOJ crypto enforcement eyes crackdown on non-compliant crypto exchanges: FT",
+            "published_at": "2023-05-15T11:29:03Z",
+            "slug": "Head-of-US-DOJ-crypto-enforcement-eyes-crackdown-on-non-compliant-crypto-exchanges-FT",
+            "id": 18345510,
+            "url": "https://cryptopanic.com/news/18345510/Head-of-US-DOJ-crypto-enforcement-eyes-crackdown-on-non-compliant-crypto-exchanges-FT",
+            "created_at": "2023-05-15T11:29:03Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Shiba Inu Price Prediction as $100 Million Trading Volume Floods In – Can SHIB Reach $1?",
+            "published_at": "2023-05-15T11:28:00Z",
+            "slug": "Shiba-Inu-Price-Prediction-as-100-Million-Trading-Volume-Floods-In-Can-SHIB-Reach-1",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https://cryptopanic.com/news/shiba-inu/"
+                }
+            ],
+            "id": 18345537,
+            "url": "https://cryptopanic.com/news/18345537/Shiba-Inu-Price-Prediction-as-100-Million-Trading-Volume-Floods-In-Can-SHIB-Reach-1",
+            "created_at": "2023-05-15T11:28:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Top 3 Holders of LADYS Token Blacklisted",
+            "published_at": "2023-05-15T11:22:00Z",
+            "slug": "Top-3-Holders-of-LADYS-Token-Blacklisted",
+            "id": 18345520,
+            "url": "https://cryptopanic.com/news/18345520/Top-3-Holders-of-LADYS-Token-Blacklisted",
+            "created_at": "2023-05-15T11:22:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Ribbon Finance introduces Aevo for on-chain options trading",
+            "published_at": "2023-05-15T11:14:06Z",
+            "slug": "Ribbon-Finance-introduces-Aevo-for-on-chain-options-trading",
+            "id": 18345519,
+            "url": "https://cryptopanic.com/news/18345519/Ribbon-Finance-introduces-Aevo-for-on-chain-options-trading",
+            "created_at": "2023-05-15T11:14:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Samsung Agrees to Research Offline CBDC With South Korea",
+            "published_at": "2023-05-15T11:05:00Z",
+            "slug": "Samsung-Agrees-to-Research-Offline-CBDC-With-South-Korea",
+            "id": 18345507,
+            "url": "https://cryptopanic.com/news/18345507/Samsung-Agrees-to-Research-Offline-CBDC-With-South-Korea",
+            "created_at": "2023-05-15T11:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Ribbon Finance's Decentralized Exchange Aevo Unveils Altcoin Options Trading",
+            "published_at": "2023-05-15T11:00:00Z",
+            "slug": "Ribbon-Finances-Decentralized-Exchange-Aevo-Unveils-Altcoin-Options-Trading",
+            "id": 18345469,
+            "url": "https://cryptopanic.com/news/18345469/Ribbon-Finances-Decentralized-Exchange-Aevo-Unveils-Altcoin-Options-Trading",
+            "created_at": "2023-05-15T11:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}
