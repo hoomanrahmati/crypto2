@@ -2,23 +2,23 @@
 
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Image from 'next/image';
 import sampleCrypto from "./components/sampleCrypto.json";
 import sampleNews from "./components/sampleNews.json";
 import CoinContainer from "./components/CoinContainer";
 import NewsContainer from "./components/NewsContainer";
 
 export default function Home(props: any) {
-  const [coins, setCoins] = useState(sampleCrypto);
-  const [news, setNews] = useState(sampleNews.results);
+  const [coins, setCoins] = useState<typeof sampleCrypto>([] || sampleCrypto);
+  const [news, setNews] = useState<typeof sampleNews.results>([] || sampleNews.results);
   const [search, setSearch] = useState("");
   const [isNews, setIsNews] = useState(false);
 
   useEffect(() => {
+    const newsApiRoute = "/api";
 
     const getNews = () => {
       return setInterval(() => {
-        axios.get("https://cryptopanic.com/api/v1/posts/?auth_token=5fda82ef699c5a66783e635119147bd82e4b62db&kind=news").then((res) => {
+        axios.get(newsApiRoute).then((res) => {
           setNews(res.data.results);
         }).catch(err => console.log(err));
       }, 2000);
@@ -30,7 +30,6 @@ export default function Home(props: any) {
             "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=200&page=1&sparkline=false"
           )
           .then((res) => {
-            console.log("data:", res.data);
             setCoins(res.data);
           })
           .catch((error) => console.log(error));

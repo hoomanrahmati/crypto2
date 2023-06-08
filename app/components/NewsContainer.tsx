@@ -26,8 +26,8 @@ export default function NewsContainer({ filteredNews }: any) {
                     filteredNews.map((coin: any) => {
                         return (
                             <News
-                                // key={coin.id}
-                                // name={coin.name}
+                                key={coin.id}
+                                date={coin?.published_at && new Date(coin?.published_at).toLocaleTimeString()}
                                 // image={coin.image}
                                 // price={coin.current_price}
                                 // symbol={coin.symbol}
